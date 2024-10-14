@@ -58,12 +58,12 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃𝚃𝚛𝚎𝚡 𝚖𝚍 𝑆𝑒𝑠𝑠𝑖𝑜𝑛
+┃BERA TECH
 ┃𝑆𝑢𝑐𝑐𝑒𝑠𝑓𝑢𝑙𝑙𝑦
 ┃𝐶𝑜𝑛𝑛𝑒𝑐𝑡𝑒𝑑
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = 𝙱𝙴𝚁𝙰_𝚃𝙴𝙲𝙷
+❶ || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = 𝙱𝙴𝚁𝙰
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || YouTube Channel = https://Instagram.com/@_BERA_TECH?si=3cp6Y2r__cXZg-Wi
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
